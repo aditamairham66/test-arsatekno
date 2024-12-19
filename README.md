@@ -89,6 +89,9 @@ Make sure to adapt the above steps based on your project's specific structure an
 
 After setting up the project and running the migrations, you can log in as an admin using the following credentials:
 
-Email: superadmin@email.com
-Password: Sup3r@dm|n
-These credentials correspond to the super admin account created by the seeder. The user role is set to admin, which grants access to admin-level features of the application.
+-   **Email**: `superadmin@email.com`
+-   **Password**: `Sup3r@dm|n`
+
+These credentials correspond to the super admin account created by the seeder. The user role is set to `admin`, which grants access to admin-level features of the application.
+
+You can use these credentials on the login page of the application to log in as an admin.
